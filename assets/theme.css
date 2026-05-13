@@ -15786,3 +15786,23 @@ border-radius: 25px;
   padding: var(--sp-3);
   border-radius: var(--sp-2d5);
 }
+
+/* Trustpilot logo appended after the product page rating snippet ("X Reviews") */
+reviewsio-product-ratings {
+  display: inline-flex;
+  align-items: center;
+}
+
+reviewsio-product-ratings::after {
+  content: '';
+  display: inline-block;
+  margin-inline-start: var(--sp-3);
+  width: 75px;
+  height: 19px;
+  background-image: url('https://cdn.shopify.com/s/files/1/0605/2911/5393/files/Trustpilot_logo_0246374a-44ef-45a8-acea-90b1a756e7e5_1.png?v=1778688434');
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: contain;
+  flex-shrink: 0;
+  transform: translateY(-1px);
+}
