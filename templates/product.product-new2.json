@@ -45,7 +45,13 @@
             "icon": "none",
             "icon_width": 20,
             "text": "{{ product.metafields.custom.description_snippet.value }}",
-            "text_size": "text-sm"
+            "text_size": "text-sm",
+            "text_color": "#000000",
+            "icon_color": "#000000",
+            "background_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "background_height": 0,
+            "border_radius": 0
           }
         },
         "description": {
@@ -112,7 +118,13 @@
             "icon": "sale",
             "icon_width": 20,
             "text": "Free 48pk Filter With Every Spa",
-            "text_size": "text-sm"
+            "text_size": "text-sm",
+            "text_color": "#ffffff",
+            "icon_color": "#ffffff",
+            "background_color": "#f59e0b",
+            "alignment": "center",
+            "background_height": 6,
+            "border_radius": 0
           }
         },
         "buy_buttons": {
@@ -158,7 +170,13 @@
             "icon": "none",
             "icon_width": 20,
             "text": "Klarna's Pay in 3 / Pay in 30 days are unregulated credit agreements. Borrowing more than you can afford or paying late may negatively impact your financial status and ability to obtain credit. 18+, UK residents only. Subject to status. Late fees may apply. <a href=\"https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fwww.klarna.com%2fuk%2fterms-and-conditions%2f&c=E,1,Cz_WXSTNFS0Bk1s1E-CwLK78ishiXFgp3canDnp6Js2o5J72YnObp4iWVUUBaO8IO4UBztUGa6BrmxNQYiB3yg77Ng85c1XS1n0WwmD8h2aacvU2Z1MuGLXlNA,,&typo=1\" title=\"https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fwww.klarna.com%2fuk%2fterms-and-conditions%2f&c=E,1,Cz_WXSTNFS0Bk1s1E-CwLK78ishiXFgp3canDnp6Js2o5J72YnObp4iWVUUBaO8IO4UBztUGa6BrmxNQYiB3yg77Ng85c1XS1n0WwmD8h2aacvU2Z1MuGLXlNA,,&typo=1\">Ts&Cs</a> apply.” or, if applicable, the limited one \"18+, T&C apply, Credit subject to status.",
-            "text_size": "text-sm"
+            "text_size": "text-sm",
+            "text_color": "#000000",
+            "icon_color": "#000000",
+            "background_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "background_height": 0,
+            "border_radius": 0
           }
         },
         "product_bundle_tWCDMV": {
@@ -208,7 +226,13 @@
             "icon": "sale",
             "icon_width": 30,
             "text": "<strong>Running Cost - From £2 a day</strong>",
-            "text_size": "text-sm"
+            "text_size": "text-sm",
+            "text_color": "#000000",
+            "icon_color": "#000000",
+            "background_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "background_height": 0,
+            "border_radius": 0
           }
         },
         "text_9JnzcB": {
@@ -219,7 +243,13 @@
             "icon_image": "shopify://shop_images/CS_key_point.png",
             "icon_width": 30,
             "text": "<strong>UK-based 7-Day Customer Support</strong>",
-            "text_size": "text-sm"
+            "text_size": "text-sm",
+            "text_color": "#000000",
+            "icon_color": "#000000",
+            "background_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "background_height": 0,
+            "border_radius": 0
           }
         },
         "text_wxnQw7": {
@@ -230,7 +260,13 @@
             "icon_image": "shopify://shop_images/sale.png",
             "icon_width": 30,
             "text": "<strong>Free Chemical & Filter Starter Kit </strong>",
-            "text_size": "text-sm"
+            "text_size": "text-sm",
+            "text_color": "#000000",
+            "icon_color": "#000000",
+            "background_color": "rgba(0,0,0,0)",
+            "alignment": "left",
+            "background_height": 0,
+            "border_radius": 0
           }
         }
       },
