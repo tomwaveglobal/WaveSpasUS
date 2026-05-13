@@ -129,6 +129,7 @@
     <div class="featured-product product product--{{ section.settings.gallery_layout }}{% if media_count == 0 %} no-media{% endif %} flex flex-col items-start lg:grid gap-5 w-full relative">
       {%- if media_count > 0 -%}
         <div class="product__gallery-container flex flex-col gap-0 md:gap-8 relative w-full">
+          {%- render 'product-badges', product: product, class: 'z-2 absolute top-0 left-0 grid gap-3 m-3' -%}
           {%- render 'product-media-gallery',
             product: product,
             product_id: product.id,
