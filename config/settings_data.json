@@ -103,6 +103,15 @@
     "product_color_swatch_type": "file",
     "product_save_amount": false,
     "product_save_type": "percent",
+    "product_badge_text_size": 8,
+    "product_badge_text_size_desktop": 12,
+    "advanced_badge_mode_product": "both",
+    "advanced_badge_mode_collection": "text",
+    "advanced_badge_mode_home": "text",
+    "advanced_badge_mode_search": "text",
+    "advanced_badge_mode_nav": "text",
+    "advanced_badge_map_1_text": "Free 48 Pack Filters",
+    "advanced_badge_map_1_image": "shopify://shop_images/48_threaded.jpg",
     "product_icon_list_metafield": "custom.product_icons",
     "product_icon_list": true,
     "product_icon_list_max": 3,
@@ -195,11 +204,6 @@
           "lang": "auto",
           "enable_syndication": false
         }
-      },
-      "2567389343055140935": {
-        "type": "shopify://apps/microsoft-clarity/blocks/clarity_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea",
-        "disabled": false,
-        "settings": {}
       },
       "17518349512066562465": {
         "type": "shopify://apps/edesk-all-in-one-helpdesk/blocks/app-embed/350f87d4-ab0c-426b-a37e-0c9ceac250b1",
