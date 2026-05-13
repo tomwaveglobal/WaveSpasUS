@@ -1,0 +1,139 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-list-collections",
+      "blocks": {
+        "collection_ydKd7z": {
+          "type": "collection",
+          "settings": {
+            "collection": "the-entire-collection",
+            "title": "All Products",
+            "description": "Check out all of our products",
+            "overlay_content": true,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_zBtdfP": {
+          "type": "collection",
+          "settings": {
+            "collection": "hot-tub-full-range",
+            "image": "shopify://shop_images/spas.jpg",
+            "title": "Hot Tubs",
+            "description": "With built in integrated heaters",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_UqXQHT": {
+          "type": "collection",
+          "settings": {
+            "collection": "hot-tub-accessories",
+            "image": "shopify://shop_images/luxury-spa-comfort-pack-drinks-holder-2-head-rests-black-luxury-spa-comfort-pack-drinks-holder-2-head-rests-black-101747.png",
+            "title": "Hot Tub Accessories",
+            "description": "Elevate your experience",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_QBKwAK": {
+          "type": "collection",
+          "settings": {
+            "collection": "hot-tub-chemicals",
+            "image": "shopify://shop_images/hot-tub-chemical-starter-kit-the-kilo-collection-hot-tub-chemical-starter-kit-the-kilo-collection-934154.png",
+            "title": "Hot Tub Chemicals",
+            "description": "Keep your tub clean and fresh",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_4KG3FG": {
+          "type": "collection",
+          "settings": {
+            "collection": "hot-tub-spare-parts",
+            "image": "shopify://shop_images/connector_transparent.png",
+            "title": "Hot Tub Spare Parts",
+            "description": "Get your spa up and running again",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_6d8iG9": {
+          "type": "collection",
+          "settings": {
+            "collection": "hot-tub-robes",
+            "image": "shopify://shop_images/robes.png",
+            "title": "Changing Robes",
+            "description": "Waterproof, windproof, adventure ready",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        },
+        "collection_9bcfMf": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "hot-tub-accessories",
+            "title": "Spa Extras",
+            "description": "Chemcials, Covers, Drinks Holders",
+            "overlay_content": false,
+            "color_text": "#ffffff",
+            "color_overlay": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "collection_ydKd7z",
+        "collection_zBtdfP",
+        "collection_UqXQHT",
+        "collection_QBKwAK",
+        "collection_4KG3FG",
+        "collection_6d8iG9",
+        "collection_9bcfMf"
+      ],
+      "settings": {
+        "display_type": "selected",
+        "sort": "alphabetical",
+        "image_type": "collection",
+        "image_ratio": "square",
+        "overlay_content": false,
+        "show_products_count": false,
+        "columns": 4,
+        "columns_mobile": "1",
+        "heading": "Collections",
+        "heading_size": "title-lg tracking-heading",
+        "heading_alignment": "text-left",
+        "heading_tag": "h1",
+        "padding_top": 52,
+        "padding_bottom": 52,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

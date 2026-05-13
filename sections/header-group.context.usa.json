@@ -1,0 +1,69 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "parent": "header-group.json",
+  "context": {
+    "market": "usa"
+  },
+  "sections": {
+    "announcement-bar": {
+      "settings": {},
+      "blocks": {
+        "announcement-1": {
+          "settings": {
+            "text": "Fast Shipping 3-5 Working Days Via FedEx",
+            "link": "shopify://pages/us-shipping-and-returns"
+          }
+        }
+      }
+    },
+    "header": {
+      "settings": {
+        "menu": "new-site-top-nav-2025-us",
+        "menu_mobile": "new-site-top-nav-2025-us"
+      },
+      "blocks": {
+        "mega_menu_tab_zgiwaa": {
+          "settings": {
+            "tab_products_2": [
+              "aegean-hot-tub-etl",
+              "atlantic-hot-tub-etl",
+              "pacific-hot-tub-etl",
+              "ontario-drop-stitch-hot-tub"
+            ]
+          }
+        },
+        "mega_menu_tab_aePWta": {
+          "settings": {
+            "tab_products_1": [
+              "cruiser-sup",
+              "tourer-sup",
+              "pro-sup",
+              "recon-sup",
+              "woody-sup",
+              "wildcat-surf-sup",
+              "wildcat-kids-sup"
+            ],
+            "tab_products_3": [
+              "wave-3-in-1-robe",
+              "lightweight-carbon-paddle",
+              "kayak-conversion-seat",
+              "fleece-lined-changing-robe"
+            ]
+          }
+        },
+        "mega_menu_tab_63jewV": {
+          "disabled": true,
+          "settings": {}
+        }
+      }
+    }
+  }
+}

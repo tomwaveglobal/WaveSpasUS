@@ -1,0 +1,361 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "image_with_text_overlay_X4CVD3": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_XQGjPP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Need help choosing your perfect board?",
+            "heading_size": "title-lg tracking-heading",
+            "heading_tag": "h2",
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        },
+        "text_pkeQUc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dive into adventure with our board comparison guide</p>",
+            "text_size": "subtext-md",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XQGjPP",
+        "text_pkeQUc"
+      ],
+      "name": "t:sections.image-with-text-overlay.presets.name",
+      "settings": {
+        "transparent_header": false,
+        "image": "shopify://shop_images/Sup-need-help-low-res_1.jpg",
+        "image_height": "650px",
+        "content_width": "medium",
+        "content_position": "md:items-center md:justify-center",
+        "text_alignment": "center",
+        "image_mobile": "shopify://shop_images/need-help-choosing2.jpg",
+        "image_height_mobile": "auto",
+        "content_position_mobile": "items-end justify-start",
+        "text_alignment_mobile": "left",
+        "color_text": "#ffffff",
+        "color_highlight": "#e0a580",
+        "gradient_highlight": "",
+        "color_button_text": "#171717",
+        "color_button_background": "#ffffff",
+        "color_button_gradient": "",
+        "color_overlay": "#171717",
+        "overlay_opacity": 30,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "divider": false,
+        "full_width": true,
+        "rounded": false,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
+    "image_with_text_3ttjXY": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_hTDcNJ": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>PRACTICAL AND PORTABLE</h5><p>The biggest advantage of choosing an inflatable iSUP for your water adventures, means once deflated, the board can be easily rolled up and packed away with all its accessories for travel by car or plane.</p><h5>STRONG AND RIGID</h5><p>Inflatable paddle boards gain their strength and rigidity as they inflate, the boards drop stitch construction provides both strength and stiffness as well as keeping the iSUP super lightweight for effortless paddling and carrying in and out of the water.</p><h5>SUPERIOR COMFORT AND SUPPORT</h5><p>Inflatable paddle boards are designed with a softer deck, to offer a more comfortable and relaxed experience for your feet, the cushioned support also has many benefits for your knees, back, and neck.</p><h5>WHICH PADDLE BOARD?</h5><p>Our iSUP collections here at Wave are split into 5 key categories, covering beginners, kids and surfers, family friendly all-rounders, intermediate skill level boards and our Pro range of professional performance paddle boards.</p>",
+            "text_size": "subtext-sm",
+            "text_max_size": 32,
+            "text_font": "body",
+            "secondary_color": false,
+            "highlighted_text": "none",
+            "highlighted_scribble": "circle"
+          }
+        }
+      },
+      "block_order": [
+        "text_hTDcNJ"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/sups.png",
+        "image_height": "adapt",
+        "image_width": "medium",
+        "layout": "image_first",
+        "text_alignment": "left",
+        "content_position": "align-self-center",
+        "image_height_mobile": "auto",
+        "text_alignment_mobile": "left",
+        "color_text": "",
+        "color_background": "#fafafa",
+        "gradient_background": "",
+        "color_background_2": "",
+        "gradient_background_2": "",
+        "color_highlight": "",
+        "gradient_highlight": "",
+        "color_button_text": "",
+        "color_button_background": "",
+        "color_button_gradient": "",
+        "padding_top": 52,
+        "padding_bottom": 52,
+        "divider": false,
+        "full_width": false,
+        "rounded": true,
+        "enable_parallax": false,
+        "parallax_direction": "vertical"
+      }
+    },
+    "comparison_D3H94g": {
+      "type": "comparison",
+      "blocks": {
+        "product_9MXG4D": {
+          "type": "product",
+          "settings": {
+            "product": "cruiser-sup",
+            "custom_title": "The Cruiser",
+            "review_rating": "{{ block.settings.product.metafields.product.review_schema.value.product_review_rate.value }}",
+            "review_count": "{{ block.settings.product.metafields.product.review_schema.value.product_review_count.value }}",
+            "dimensions": "327x81x15cm | 10'9x32x6\"",
+            "shape": "All skill levels; beginner-friendly",
+            "material": "8kg (18lbs)",
+            "massage_system": "130kg (287lbs)",
+            "split_payment": "15PSI",
+            "heater_filter": "X",
+            "flow_rate": "",
+            "certification": "",
+            "power_cable": "",
+            "accessories": ""
+          }
+        },
+        "product_bFMHTT": {
+          "type": "product",
+          "settings": {
+            "product": "tourer-sup",
+            "custom_title": "The Tourer",
+            "review_rating": "{{ block.settings.product.metafields.product.review_schema.value.product_review_rate.value }}",
+            "review_count": "{{ block.settings.product.metafields.product.review_schema.value.product_review_count.value }}",
+            "dimensions": "10'3ft | 312x81x15cm | 10'3x32x6\"<br>\n11'3ft | 343x81x15cm | 11'3x32x6\"",
+            "shape": "Beginner to Intermediate",
+            "material": "10'3ft | 8.1kg (18lbs)11'3ft | 8.8kg (19lbs)",
+            "massage_system": "10'3ft | 130kg (287lbs) 11'3ft | 140kg (309lbs)",
+            "split_payment": "15PSI",
+            "heater_filter": "✓",
+            "flow_rate": "",
+            "certification": "",
+            "power_cable": "",
+            "accessories": ""
+          }
+        },
+        "product_dpqBMq": {
+          "type": "product",
+          "settings": {
+            "product": "woody-sup",
+            "custom_title": "The Woody",
+            "review_rating": "{{ block.settings.product.metafields.product.review_schema.value.product_review_rate.value }}",
+            "review_count": "{{ block.settings.product.metafields.product.review_schema.value.product_review_count.value }}",
+            "dimensions": "327x81x15cm | 10'9x32x6\"",
+            "shape": "Beginner to Intermediate",
+            "material": "7.6kg (17lbs)",
+            "massage_system": "150kg (331lbs)",
+            "split_payment": "15PSI",
+            "heater_filter": "✓",
+            "flow_rate": "",
+            "certification": "",
+            "power_cable": "",
+            "accessories": ""
+          }
+        },
+        "product_KGHzcL": {
+          "type": "product",
+          "settings": {
+            "product": "recon-sup",
+            "custom_title": "The Recon",
+            "review_rating": "{{ block.settings.product.metafields.product.review_schema.value.product_review_rate.value }}",
+            "review_count": "{{ block.settings.product.metafields.product.review_schema.value.product_review_count.value }}",
+            "dimensions": "315x89x15cm | 10'4x35x6\"",
+            "shape": "All skill levels",
+            "material": "7.2kg (16lbs)",
+            "massage_system": "160kg (353lbs)",
+            "split_payment": "15PSI",
+            "heater_filter": "✓",
+            "flow_rate": "",
+            "certification": "",
+            "power_cable": "",
+            "accessories": ""
+          }
+        },
+        "product_TgyWrP": {
+          "type": "product",
+          "settings": {
+            "product": "pro-sup",
+            "custom_title": "The Pro",
+            "review_rating": "{{ block.settings.product.metafields.product.review_schema.value.product_review_rate.value }}",
+            "review_count": "{{ block.settings.product.metafields.product.review_schema.value.product_review_count.value }}",
+            "dimensions": "381x81x15cm | 12'6x32x6\"",
+            "shape": "Adventurous paddlers",
+            "material": "7.8kg (17lbs)",
+            "massage_system": "170kg (375lbs)",
+            "split_payment": "20PSI",
+            "heater_filter": "✓",
+            "flow_rate": "",
+            "certification": "",
+            "power_cable": "",
+            "accessories": ""
+          }
+        },
+        "product_BazQdQ": {
+          "type": "product",
+          "settings": {
+            "product": "wildcat-kids-sup",
+            "custom_title": "The Wildcat",
+            "review_rating": "{{ block.settings.product.metafields.product.review_schema.value.product_review_rate.value }}",
+            "review_count": "{{ block.settings.product.metafields.product.review_schema.value.product_review_count.value }}",
+            "dimensions": "8.6ft | 260x78x10cm | 102x30x4\"",
+            "shape": "Smaller riders, surfers",
+            "material": "7kg (15lbs)",
+            "massage_system": "110kg (242lbs)",
+            "split_payment": "12PSI",
+            "heater_filter": "✓",
+            "flow_rate": "",
+            "certification": "",
+            "power_cable": "",
+            "accessories": ""
+          }
+        }
+      },
+      "block_order": [
+        "product_9MXG4D",
+        "product_bFMHTT",
+        "product_dpqBMq",
+        "product_KGHzcL",
+        "product_TgyWrP",
+        "product_BazQdQ"
+      ],
+      "name": "Product Comparison Table",
+      "settings": {
+        "heading": "Compare Paddleboards",
+        "heading_size": "title-lg tracking-heading",
+        "heading_alignment": "text-center md:items-center",
+        "heading_tag": "h2",
+        "subheading": "",
+        "description": "",
+        "product_image_background": "#f8f8f8",
+        "product_image_backdrop": "#f8f8f8",
+        "product_image_padding": 12,
+        "product_image_border_radius": 6,
+        "product_image_size_desktop": 150,
+        "product_image_size_mobile": 120,
+        "product_card_padding": 20,
+        "image_title_spacing": 16,
+        "title_price_spacing": 12,
+        "price_content_spacing": 12,
+        "initial_rows": 5,
+        "show_more_text": "Show more",
+        "show_less_text": "Show less",
+        "show_variant_thumbnails": true,
+        "variant_display_type": "images",
+        "swatch_shape": "circle",
+        "swatch_size": 24,
+        "swatch_border_radius": 4,
+        "swatch_border_width": 2,
+        "swatch_border_color": "#dddddd",
+        "swatch_gap": 4,
+        "show_buy_buttons": true,
+        "buy_button_text": "Buy Now",
+        "buy_button_alignment": "center",
+        "table_background": "#f5f5f5",
+        "border_color": "#f8f9fa",
+        "header_background": "#f8f9fa",
+        "product_card_background": "#ffffff",
+        "spec_label_background": "#f8f9fa",
+        "spec_value_background": "#ffffff",
+        "footer_background": "#f8f9fa",
+        "product_title_color": "#333333",
+        "product_title_size": 14,
+        "price_color": "#333333",
+        "price_from_color": "#666666",
+        "original_price_color": "#999999",
+        "price_size": 18,
+        "review_text_color": "#666666",
+        "star_filled_color": "#ffd700",
+        "star_empty_color": "#dddddd",
+        "spec_label_color": "#333333",
+        "spec_label_size": 14,
+        "spec_value_color": "#555555",
+        "spec_value_size": 13,
+        "button_color": "#171717",
+        "buy_button_background": "#000000",
+        "buy_button_text_color": "#ffffff",
+        "buy_button_hover_background": "#333333",
+        "buy_button_hover_text_color": "#ffffff",
+        "buy_button_radius": 30,
+        "buy_button_padding_vertical": 12,
+        "buy_button_padding_horizontal": 20,
+        "buy_button_font_size": 14,
+        "buy_button_font_weight": "600",
+        "buy_button_width": "auto",
+        "buy_button_text_transform": "none",
+        "buy_button_letter_spacing": 0,
+        "buy_button_border_width": 0,
+        "buy_button_border_color": "rgba(0,0,0,0)",
+        "buy_button_hover_border_color": "rgba(0,0,0,0)",
+        "buy_button_transition_duration": 0.2,
+        "buy_button_shadow": "none",
+        "buy_button_hover_shadow": "none",
+        "buy_button_hover_transform": "none",
+        "buy_button_active_transform": "scale(0.98)",
+        "variant_border_color": "#dddddd",
+        "placeholder_background": "#f9f9f9",
+        "placeholder_border": "#dddddd",
+        "placeholder_text_color": "#999999",
+        "dimensions_label": "Dimensions",
+        "shape_label": "Skill Level",
+        "material_label": "Board Weight",
+        "massage_system_label": "Max Weight Capacity",
+        "split_payment_label": "Max PSI",
+        "heater_filter_label": "Kayak Convertible",
+        "flow_rate_label": "",
+        "certification_label": "",
+        "power_cable_label": "",
+        "accessories_label": "",
+        "padding_top": 72,
+        "padding_bottom": 72,
+        "divider": false,
+        "full_width": false,
+        "rounded": false
+      }
+    },
+    "main-page": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "heading_size": "title-md",
+        "heading_alignment": "text-center",
+        "heading_tag": "h1",
+        "text_size": "text-base",
+        "padding_top": 52,
+        "padding_bottom": 52,
+        "divider": false,
+        "narrow": true,
+        "rounded": true
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay_X4CVD3",
+    "image_with_text_3ttjXY",
+    "comparison_D3H94g",
+    "main-page"
+  ]
+}
