@@ -55,7 +55,7 @@
         "text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>FIRST TIMER?</p>",
+            "text": "<p><em><strong>LIMITED TIME OFFER</strong></em></p>",
             "text_size": "subtext-custom",
             "text_max_size": 12,
             "text_font": "body",
@@ -67,7 +67,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Sign up and get <em>5% off</em> your first order",
+            "heading": "<em><strong>Free</strong></em>  x48 Filters (Worth $99) with every Spa",
             "heading_size": "text-2xl lg:text-3xl",
             "heading_tag": "h2",
             "highlighted_text": "scribble",
@@ -76,6 +76,7 @@
         },
         "spacing": {
           "type": "spacing",
+          "disabled": true,
           "settings": {
             "height": 32,
             "height_mobile": 12
@@ -88,7 +89,7 @@
         "text-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Subscribe to our newsletter and be the first to hear about our new arrivals, special promotions and online exclusives.</p>",
+            "text": "<p>Plus, sign up today and we’ll also give you <strong>5% off</strong> your first order.</p>",
             "text_size": "text-sm",
             "text_max_size": 32,
             "text_font": "body",
@@ -99,6 +100,7 @@
         },
         "media": {
           "type": "media",
+          "disabled": true,
           "settings": {}
         },
         "floating": {

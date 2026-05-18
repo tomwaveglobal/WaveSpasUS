@@ -31,9 +31,9 @@
         "image_PAYwTV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Carousel_Home_page_a0c29c8f-4b48-4db2-8afd-8a3944080c05.jpg",
-            "image_mobile": "shopify://shop_images/Mobile_f12000e3-f327-4666-b574-5e74a6cfb42c.jpg",
-            "heading": "Set for <span style=\"color: #F59E0B;\">summer. </span> <br>Sorted for the year. <br><span style=\"color: #F59E0B;\">x48 filters</span> with every Tub.",
+            "image": "shopify://shop_images/US_Spa-bundle-carousel_V2_-1.jpg",
+            "image_mobile": "shopify://shop_images/US_Spa-bundle-carousel_V2_-2.jpg",
+            "heading": "‎",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "button_label": "Shop Before Memorial Day",
@@ -888,7 +888,7 @@
             "item_border_radius": "0px",
             "item_shadow_size": "10px",
             "item_shadow_colour": "#f2f2f2",
-            "enable_rich_snippets": false,
+            "enable_rich_snippets": true,
             "disable_same_customer": false,
             "logo_colour": "var(--logo-inverted)"
           }
