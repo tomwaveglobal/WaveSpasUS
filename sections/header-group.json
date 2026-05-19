@@ -41,11 +41,11 @@
         "announcement-2": {
           "type": "announcement",
           "settings": {
-            "icon": "email",
-            "text": "Have A question? <em><strong>Visit our support page</strong></em>",
-            "link": "shopify://pages/contact",
+            "icon": "rocket",
+            "text": "<em><strong>15% off </strong></em> Inflatable Hot Tubs",
+            "link": "shopify://collections/inflatable-hot-tubs",
             "hide_icon_mobile": true,
-            "text_mobile": "Ask us a question! <em><strong>Click Here</strong></em>",
+            "text_mobile": "<em><strong>15% off</strong></em>  Inflatable Hot Tubs",
             "highlighted_text": "text",
             "highlighted_scribble": "circle"
           }
