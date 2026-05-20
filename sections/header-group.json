@@ -42,10 +42,10 @@
           "type": "announcement",
           "settings": {
             "icon": "rocket",
-            "text": "<em><strong>15% off </strong></em> Inflatable Hot Tubs",
+            "text": "<em><strong>10% off </strong></em> Inflatable Hot Tubs",
             "link": "shopify://collections/inflatable-hot-tubs",
             "hide_icon_mobile": true,
-            "text_mobile": "<em><strong>15% off</strong></em>  Inflatable Hot Tubs",
+            "text_mobile": "<em><strong>10% off</strong></em>  Inflatable Hot Tubs",
             "highlighted_text": "text",
             "highlighted_scribble": "circle"
           }
