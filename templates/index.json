@@ -31,13 +31,13 @@
         "image_PAYwTV": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/US_10_-Off_Spa-bundle-carousel-1.jpg",
-            "image_mobile": "shopify://shop_images/US_10_-Off_Spa-bundle-carousel-2.jpg",
+            "image": "shopify://shop_images/US_10_-Off_Spa-bundle-carousel-1_1e3f3298-378f-4a8e-80dd-1d5bd423cbce.jpg",
+            "image_mobile": "shopify://shop_images/US_10_-Off_Spa-bundle-carousel-2_33e81ef4-46ab-496c-b573-3a8b6ed55426.jpg",
             "heading": "‎",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "button_label": "Shop Before Memorial Day",
-            "button_link": "shopify://collections/hot-tub-full-range",
+            "button_link": "shopify://collections/inflatable-hot-tubs",
             "button_style": "primary",
             "button_external": false,
             "button_icon": false
