@@ -16,6 +16,7 @@
       "blocks": {
         "announcement_mnCMPh": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "icon": "sale",
             "text": "Order now and get <em><strong>x48 Filters in the box </strong></em>",
