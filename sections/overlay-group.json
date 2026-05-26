@@ -67,7 +67,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>Free</strong></em>  x48 Filters (Worth $99) with every Spa",
+            "heading": "Sign up today and we’ll give you <em><strong>5% off</strong></em><em> </em><strong> </strong>your first order.",
             "heading_size": "text-2xl lg:text-3xl",
             "heading_tag": "h2",
             "highlighted_text": "scribble",
@@ -89,7 +89,7 @@
         "text-2": {
           "type": "text",
           "settings": {
-            "text": "<p>Plus, sign up today and we’ll also give you <strong>5% off</strong> your first order.</p>",
+            "text": "",
             "text_size": "text-sm",
             "text_max_size": 32,
             "text_font": "body",
@@ -100,7 +100,6 @@
         },
         "media": {
           "type": "media",
-          "disabled": true,
           "settings": {}
         },
         "floating": {
