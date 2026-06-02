@@ -114,6 +114,7 @@
         },
         "text_QMpGdg": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "icon": "sale",
             "icon_width": 20,
@@ -155,6 +156,8 @@
             "message_custom_icon": "shopify://shop_images/shop_buttons_1.png",
             "message_icon_width": 100,
             "message_image_checkbox": true,
+            "message_image_link": "",
+            "message_image_popup_title": "Finance Options",
             "message": "<p>Starting at #amount* per month, or use <a href=\"https://wavespas.com/pages/payl8r\" target=\"_blank\" title=\"https://wavespas.com/pages/payl8r\"><strong>Payl8r</strong></a><strong> </strong><a href=\"/pages/payl8r\" title=\"Payl8r\">here</a>.</p>",
             "message_divide_amount": "3",
             "message_price_range": "100",
