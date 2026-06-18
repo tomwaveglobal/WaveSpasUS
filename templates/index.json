@@ -33,7 +33,7 @@
           "settings": {
             "image": "shopify://shop_images/US-10-KickOff-1.jpg",
             "image_mobile": "shopify://shop_images/US-10-KickOff-2.jpg",
-            "heading": "‎",
+            "heading": "",
             "heading_size": "title-sm",
             "heading_tag": "h2",
             "button_label": "Shop Offer",
