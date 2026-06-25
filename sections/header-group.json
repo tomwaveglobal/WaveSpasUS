@@ -43,10 +43,10 @@
           "type": "announcement",
           "settings": {
             "icon": "rocket",
-            "text": "<em><strong>GOAL 5 5% off </strong></em> Inflatable Hot Tubs",
-            "link": "shopify://collections/inflatable-hot-tubs",
+            "text": "<em><strong>Extra 5% off </strong></em> all Hot Tubs with GOAL5",
+            "link": "shopify://collections/hot-tub-full-range",
             "hide_icon_mobile": true,
-            "text_mobile": "<em><strong>5% off</strong></em>  Inflatable Hot Tubs",
+            "text_mobile": "<em><strong>Extra 5% off</strong></em>  all Hot Tubs",
             "highlighted_text": "text",
             "highlighted_scribble": "circle"
           }
