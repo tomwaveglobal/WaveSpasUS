@@ -30,6 +30,7 @@
         },
         "image_PAYwTV": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/Inflatable_WiFi_10Off_Jun26-1.jpg",
             "image_mobile": "shopify://shop_images/Inflatable_WiFi_10Off_Jun26-2.jpg",
