@@ -14,15 +14,14 @@
       "blocks": {
         "image_UPWkm3": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify://shop_images/Carousel_Home_page_588d385c-ade9-4619-8e5f-b7e80dcd0187.jpg",
-            "image_mobile": "shopify://shop_images/Mobile_0c04ce43-348d-4343-89f7-399d145e39f6.jpg",
-            "heading": "Your Summer<br>Your Spa <br> And It's <span style=\"color: #F59E0B;\">Free...  </span>",
+            "image": "shopify://shop_images/US_FlashSale-1.jpg",
+            "image_mobile": "shopify://shop_images/US_FlashSale-2.jpg",
+            "heading": "‎",
             "heading_size": "title-sm",
             "heading_tag": "h2",
-            "button_label": "Join The Competition",
-            "button_link": "shopify://blogs/blogs/win-a-hot-tub-usa",
+            "button_label": "Shop Foam Hot Tubs",
+            "button_link": "shopify://collections/foam-hot-tubs",
             "button_style": "primary",
             "button_external": true,
             "button_icon": false
