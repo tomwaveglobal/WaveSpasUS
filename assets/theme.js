@@ -4943,6 +4943,7 @@ class ProductInfo extends HTMLElement {
       updateSourceFromDestination('BuyButtonPrice');
       updateSourceFromDestination('StickyPrice');
       updateSourceFromDestination('Sku');
+      updateSourceFromDestination('BadgesOverlay');
       updateSourceFromDestination('Inventory');
       updateSourceFromDestination('Volume');
       updateSourceFromDestination('PricePerItem');
@@ -5009,7 +5010,7 @@ class ProductInfo extends HTMLElement {
     this.productForm?.toggleSubmitButton(true, theme.variantStrings.unavailable, true);
     this.productStickyForm?.toggleSubmitButton(true, theme.variantStrings.unavailable, true);
 
-    const selectors = ['ProductGallery', 'Price', 'BuyButtonPrice', 'StickyPrice', 'Inventory', 'Sku', 'PricePerItem', 'BackInStock', 'ProductBundle', 'VolumeNote', 'Volume', 'QuantityRules', 'QuantityRulesCart']
+    const selectors = ['ProductGallery', 'Price', 'BuyButtonPrice', 'StickyPrice', 'Inventory', 'Sku', 'BadgesOverlay', 'PricePerItem', 'BackInStock', 'ProductBundle', 'VolumeNote', 'Volume', 'QuantityRules', 'QuantityRulesCart']
       .map((id) => `#${id}-${this.sectionId}-${this.productId}`)
       .join(', ');
     document.querySelectorAll(selectors).forEach((selector) => selector.setAttribute('hidden', ''));
