@@ -41,6 +41,7 @@
         },
         "announcement-2": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "icon": "rocket",
             "text": "<em><strong>Free Wi-Fi Upgrade</strong></em>  on Inflatable Hot Tubs",
